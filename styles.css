@@ -128,15 +128,18 @@ ul{
 
 
 .quote{
-	padding: 70px;
-	width: 100%;
+	padding-bottom: 30px;
+	padding-right: 90px;
+	padding-left: 400px;
+	padding-top: 100px;
+	width: 900px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
 	line-height: 1.4em;
 	font-style: italic;
 	display: inline-block;
 	text-align: center;
-	margin: 0 auto;
+	margin: 0 0 auto;
 	}
 
 
@@ -235,5 +238,12 @@ ul{
 	padding: 10px
 	}
 
+.twitter{
+	padding-right: 60px;
+}
+
+.facebook{
+	padding-left: 10px;
+}
 
 
