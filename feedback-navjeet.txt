@@ -1,0 +1,32 @@
+Use HTML5 structural elements (nav, header, footer)
+  - Good!
+
+Use a CSS Reset file in addition to your style.css file to style the page
+  - Good!
+
+Use IDs and Classes to select and style elements on the page
+  - Good!
+
+Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
+  - Good!
+
+Indent nested elements to increase your code's readability
+  - Good!
+
+Use CSS display and float to get the layout correct
+  - Good!
+
+
+Additional Comments:
+
+Yes! You got the 3 boxes with the Feature text working. Awesome!
+
+This is a little thing, but for readability, it's better to indent your <li>s, since they are children of the <ul>:
+    <ul>
+      <li>Schedule meetings for you</li>
+      <li>Excel automation to complete your work for you</li>
+      <li>Responds to emails on your behalf</li>
+      <li>Does all your work for you with our revolutionary AI technology</li>
+    </ul>
+
+Overall, this looks great! You're definitely getting the hang of this stuff. Let me know if you have any questions.
